@@ -1,2 +1,2 @@
-# CSE420
+# Biomedical Imaging
 Biomedical Imaging
