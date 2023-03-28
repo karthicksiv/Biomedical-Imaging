@@ -1,4 +1,4 @@
-# Preprocessing Framework for Cleaning MR Images
+# Preprocessing Framework for Cleaning MRI Data
 This repository contains a preprocessing framework for cleaning MR images based on denoising filters. The aim of this project is to decide the correct order of preprocessing filters as well as their types. The denoising filter used in this project is expected to preserve edges while removing noise.
 
 ## Data
